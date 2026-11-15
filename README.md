@@ -19,6 +19,7 @@ I work with restaurants, spas, dental clinics, law firms and real estate teams.
 | Project | Built with | What it does |
 |---|---|---|
 | [GHL Speed-to-Lead Workflow](https://github.com/Kaynat-Umar/ghl-speed-to-lead-workflow) | GoHighLevel | Replies to every new enquiry in under 60 seconds by SMS + email, follows up automatically, and creates a call task if the lead goes quiet |
+| [GHL Missed Call Text-Back](https://github.com/Kaynat-Umar/ghl-missed-call-text-back) | GoHighLevel | Texts every missed caller back within seconds, adds them to the pipeline, alerts the front desk and creates a call-back task if they don't reply |
 
 New automation projects are added here every week.
 
